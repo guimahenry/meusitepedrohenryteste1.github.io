@@ -1,0 +1,106 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url(achoquevai.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 125%;
+    text-align: center;
+}
+#titulo {
+    padding-top: 17%;
+    padding-right: 18%;
+    padding-left: 18%;
+    color: white;
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+#subtitulo {
+    padding-right: 20%;
+    padding-left: 20%;
+    color: white;
+}
+#acao {
+    color: greenyellow;
+    border: 2px turquoise solid;
+    padding: 4px 4px 4px 4px;
+
+}
+#secao1 {
+    text-align: center;
+    padding: 30px;
+    background-color: #f7f7f7;
+    float: left;
+}
+.titulossecao {
+    font-size: 33px;
+}
+.icone {
+    width: 85px;
+    text-align: center;
+}
+.explicacao {
+    font-size: 17px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: justify;
+    margin: 38px;
+}
+#secao2 {
+    text-align: center
+}
+#titulos2 {
+    padding-top: 10px;
+}
+.subtitulossecao {
+    font-size: 23px;
+}
+#secao3 {
+    background-color: #f7f7f7;
+    text-align: center;
+    padding: 5px;
+    float: left;
+}
+#acao2 {
+    color: black;
+}
+.icone1 {
+    text-align: center;
+    width: 380px
+}
+#sulsul {
+    width: 52%;
+    padding-top: 30px;
+}
+#legendacatuti {
+    font-size: 14px;
+}
+#secao4 {
+    text-align: center;
+    padding: 5px;
+}
+#secao5 {
+    background-color: #f7f7f7;
+    padding: 5px;
+}
+.linksreferencia {
+    color: black;
+    font-size: 23px;
+}
+#titulodereferencia {
+    text-align: center;
+}
+.coluna {
+    padding: 0 5%;
+    width: 40%;
+}
+.direita {
+    float: right;
+}
+.esquerda {
+    float: left;
+}
+.icone3 {
+    width: 200px;
+}
